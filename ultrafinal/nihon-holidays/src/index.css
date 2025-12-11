@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* This applies your new Beige (#ebd5ab) to the whole page */
+  @apply bg-slate-50 text-secondary-900 font-sans;
+}
+
+/* Luxury Headings */
+h1, h2, h3, h4, h5, h6 {
+  @apply font-serif;
+}
+
+/* Custom Scrollbar styled with your Greens */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-secondary-900;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-primary-500 rounded-full border-2 border-secondary-900;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary-400;
+}
