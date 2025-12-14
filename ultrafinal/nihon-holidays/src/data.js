@@ -263,7 +263,7 @@ export const internationalPackageData = {
     intro: "Experience Bali’s serene temples, lush rice terraces, vibrant beach clubs and café culture.",
     gallery: [
         "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/1031700/pexels-photo-1031700.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg",
         "https://images.pexels.com/photos/1643130/pexels-photo-1643130.jpeg?auto=compress&cs=tinysrgb&w=800"
     ],
     options: [
@@ -286,14 +286,13 @@ export const internationalPackageData = {
     name: "Dubai: Desert & Skyscrapers",
     region: "middle-east",
     duration: "5 Days / 4 Nights",
-    cover: "https://images.pexels.com/photos/1534411/pexels-photo-1534411.jpeg?auto=compress&cs=tinysrgb&w=800",
+    cover: "https://images.unsplash.com/photo-1640953036047-5566900ea05d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     short: "Desert Safari & Shopping",
     intro: "Classic Dubai combo with city tour, desert safari with BBQ dinner, and Marina cruise.",
     gallery: [
-        "https://images.pexels.com/photos/1534411/pexels-photo-1534411.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/4492650/pexels-photo-4492650.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/3763789/pexels-photo-3763789.jpeg?auto=compress&cs=tinysrgb&w=800"
-    ],
+        "https://images.unsplash.com/flagged/photo-1559717201-fbb671ff56b7?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1489516408517-0c0a15662682?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1697729914552-368899dc4757?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"    ],
     options: [
       {
         duration: "5D / 4N – Dubai City",
